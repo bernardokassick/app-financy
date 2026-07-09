@@ -1,0 +1,12 @@
+# Pastas de dependências
+**/node_modules
+**/dist
+
+# Arquivos de ambiente e bancos locais
+**/.env
+**/dev.db
+**/dev.db-journal
+
+# Logs e arquivos de sistema
+npm-debug.log*
+.DS_Store
